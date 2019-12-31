@@ -32,8 +32,12 @@ Variety is all about the ability to classify the incoming data into various cate
 ```
 # Veracity（真實性）
 ```
-
+Veracity has everything to do with accuracy which from a decision and intelligence viewpoint becomes
+certainty and the degree in which we can trust upon the data to do what we need/want to do.
 ```
 # Value（價值）
 ```
+As said we add value to that as it’s about the goal, the outcome, the prioritization and the overall 
+value and relevance created in Big Data applications, whereby the value lies in the eye of the beholder 
+and the stakeholder and never or rarely in the volume dimension. Welcome to Big Data in Action.
 ```
